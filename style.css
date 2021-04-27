@@ -1,0 +1,70 @@
+#bigbox{
+    height: 10000px;
+    width: 600px;
+}
+.network{
+    height: 50px;
+    width: 750px;
+    background-color: black;
+    margin-left: 245px;
+    display: flex;
+    align-items: center;
+
+}
+.network h1{
+    color: white;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+#feed{
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+}
+
+
+.avatar{
+    height: 250px;
+    width: 170px;
+    border: black solid;
+    position: fixed;
+    top: 137px;
+    left: 260px;
+}
+.avatar img{
+    height: 75px;
+    width: 75px;
+    display: flex;
+    align-items: center;
+    padding: 20px 0px 20px 45px;
+}
+.avatar a, h2{
+    margin: 40px 0px 0px 35px;
+}
+#container,#container1,#container2 {
+
+    height: 150px;
+    width: 500px;
+    border: black solid;
+    margin: 20px 0px 0px 480px;
+
+    
+}
+.topcontainer,.topcontainer1,.topcontainer2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.button,.button1,.button2{
+    height: 30px;
+    width: 60px;
+    background-color:rgb(221, 221, 48);
+}
+.bottomcontainer,.bottomcontainer1,.bottomcontainer2{
+    padding-left: 25px;
+}
+.bottomcontainer2 h3{
+    margin: 0px;
+}
